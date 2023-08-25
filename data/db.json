@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "Opening Party!",
+      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "title": "New Blog",
+      "body": "test body",
+      "author": "mario",
+      "id": 3
+    },
+    {
+      "title": "My New Blog",
+      "body": "Test Blog Body",
+      "author": "yoshi",
+      "id": 4
+    },
+    {
+      "title": "My New Blog",
+      "body": "Test Blog Body",
+      "author": "yoshi",
+      "id": 5
+    },
+    {
+      "title": "My New Blog",
+      "body": "Test Blog Body",
+      "author": "yoshi",
+      "id": 6
+    }
+  ]
+}
